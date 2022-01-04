@@ -6,7 +6,7 @@ The implementation of Pix2Pix is taken from https://github.com/eriklindernoren/P
 ## implementation
 
 The model takes a 256² crop image as input and outputs an 256² image with the watermark removed.
-To transform a higer resolution image the model take 256² crops of the images and stitches them together, this can
+To transform a higer resolution image the model takes 256² crops of the images and stitches them together, this can
 lead to weird artificats around the borders of the squares.
 
 An additional perception loss is added to the generator based on vgg11. This can probably be changed to vgg19 but due
