@@ -20,7 +20,7 @@ The validation set consists of around 200 images. Some sample images are shown b
 
 ## results
 
-After 100 epochs these are the results. This can probably be improved if we train the model longer.
+After 100 epochs these are the results. This can probably be improved if we train the model longer. The original images are not shown because they are copyrighted.
 
 ![res 1 of validation data](results/epoch100/res0.jpg?raw=true "example 1")
 ![res 2 of validation data](results/epoch100/res1.jpg?raw=true "example 2")
