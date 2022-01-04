@@ -22,4 +22,8 @@ The validation set consists of around 200 images. Some sample images are shown b
 
 After 100 epochs these are the results. This can probably be improved if we train the model longer.
 
-![Alt text](results/epoch100/res0.jpg?raw=true "Title")
+![res 1 of validation data](results/epoch100/res0.jpg?raw=true "example 1")
+![res 2 of validation data](results/epoch100/res1.jpg?raw=true "example 2")
+![res 3 of validation data](results/epoch100/res2.jpg?raw=true "example 3")
+![res 4 of validation data](results/epoch100/res3.jpg?raw=true "example 4")
+![res 5 of validation data](results/epoch100/res4.jpg?raw=true "example 5")
