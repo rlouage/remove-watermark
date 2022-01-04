@@ -22,4 +22,4 @@ The validation set consists of around 200 images. Some sample images are shown b
 
 After 100 epochs these are the results. This can probably be improved if we train the model longer.
 
-![alt text](https://github.com/rlouage]/remove-watermark/blob/main/results/epoch100/res0.jpg?raw=true)
+![Alt text](results/epoch100/res0.jpg?raw=true "Title")
