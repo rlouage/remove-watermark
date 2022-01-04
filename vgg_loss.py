@@ -45,10 +45,6 @@ class VGG19(nn.Module):
         return loss
 
 
-vgg_pretrained_features = torchvision.models.vgg19(pretrained = True, progress = True).features
-vgg_pretrained_features
-
-
 class VGG11(nn.Module):
     def __init__(self, requires_grad=False, criterion=nn.L1Loss()):
         super(VGG11, self).__init__()

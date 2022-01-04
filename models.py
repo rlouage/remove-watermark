@@ -14,7 +14,7 @@ def weights_init_normal(m):
 
 ##############################
 #           U-NET
-# #############################
+##############################
 
 
 class UNetDown(nn.Module):
@@ -103,7 +103,7 @@ class GeneratorUNet(nn.Module):
 
 ##############################
 #        Discriminator
-# #############################
+##############################
 
 
 class Discriminator(nn.Module):
