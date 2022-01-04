@@ -1,13 +1,13 @@
 # remove-watermark
 
-A model based of Pix2Pix (https://arxiv.org/abs/1611.07004) to remove watermark from images.
+A model based on Pix2Pix (https://arxiv.org/abs/1611.07004) to remove watermark from images.
 The implementation of Pix2Pix is taken from https://github.com/eriklindernoren/PyTorch-GAN.
 
 ## implementation
 
 The model takes a 256² crop image as input and outputs an 256² image with the watermark removed.
 To transform a higer resolution image the model take 256² crops of the images and stitches them together, this can
-cause to weird artificats around the borders of the squares.
+lead to weird artificats around the borders of the squares.
 
 An additional perception loss is added to the generator based on vgg11. This can probably be changed to vgg19 but due
 to computational limits this is not done.
@@ -22,4 +22,4 @@ The validation set consists of around 200 images. Some sample images are shown b
 
 After 100 epochs these are the results. This can probably be improved if we train the model longer.
 
-![alt text](https://github.com/rlouage]/remove-watermark/blob/main/results/res0.jpg?raw=true)
+![alt text](https://github.com/rlouage]/remove-watermark/blob/main/results/epoch100/res0.jpg?raw=true)
