@@ -18,6 +18,10 @@ The dataset I used for this is not publicly available and thus I won't share it 
 The train dataset consists of around 20k Shutterstock images and their watermarked counterpart.
 The validation set consists of around 200 images. Some sample images are shown below
 
+## training
+
+The model was trained for about 100 hours on a gtx 970.
+
 ## results
 
 After 100 epochs these are the results. This can probably be improved if we train the model longer. The original images are not shown because they are copyrighted.
