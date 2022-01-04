@@ -14,7 +14,7 @@ to computational limits this is not done.
 
 ## dataset
 
-The dataset I used for this is not publicly available and thus I won't share it (due to legal reasons).
+The dataset I used for this is not publicly available and thus I won't share it (also due to legal reasons).
 The train dataset consists of around 20k Shutterstock images and their watermarked counterpart.
 The validation set consists of around 200 images. Some sample images are shown below
 
