@@ -1,7 +1,7 @@
 # remove-watermark
 
 A model based on Pix2Pix (https://arxiv.org/abs/1611.07004) to remove watermark from images.
-The implementation of Pix2Pix is taken from https://github.com/eriklindernoren/PyTorch-GAN.
+The implementation of Pix2Pix is based on https://github.com/eriklindernoren/PyTorch-GAN.
 
 ## implementation
 
