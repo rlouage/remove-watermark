@@ -24,7 +24,7 @@ The model was trained for about 100 hours on a gtx 970.
 
 ## results
 
-After 100 epochs these are the results. This can probably be improved if we train the model longer. The original images are not shown because they are copyrighted. More results can be found in the results folder.
+After 100 epochs these are the results. This can probably be improved if we train the model longer. More results can be found in the results folder.
 
 ![res 2 of validation data](results/epoch100/res1.jpg?raw=true "example 2")
 ![res 3 of validation data](results/epoch100/res2.jpg?raw=true "example 3")
